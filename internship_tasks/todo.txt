@@ -1,0 +1,45 @@
+Tasks
+
+1. Create a scatter plot to visualize the relationship between revenue and the number of installs for paid apps only. Add a trendline to show the correlation and color-code the points based on app categories.
+status: COMPLETED
+date_of_completion: 25/01/25
+
+
+2. Create a dual-axis chart comparing the average installs and revenue for free vs. paid apps within the top 3 app categories. Apply filters to exclude apps with fewer than 10,000 installs and revenue below $10,000 and android version should be more than 4.0 as well as size should be more than 15M and content rating should be Everyone and app name should not have more than 30 characters including space and special character .this graph should work only between 1 PM IST to 2 PM IST apart from that time we should not show this graph in dashboard itself.
+status: COMPLETED
+date_of_completion: 02/02/25
+
+
+3. Use a grouped bar chart to compare the average rating and total review count for the top 10 app categories by number of installs. Filter out any categories where the average rating is below 4.0 and size below 10 M and last update should be Jan month . this graph should work only between 3PM IST to 5 PM IST apart from that time we should not show this graph in dashboard itself.
+status: COMPLETED
+date_of_completion: 20/02/25
+
+
+4. Plot a bubble chart to analyze the relationship between app size (in MB) and average rating, with the bubble size representing the number of installs. Include a filter to show only apps with a rating higher than 3.5 and that belong to the "Games" category and installs should be more than 50k as well as this graph should work only between 5 PM IST to 7 PM IST apart from that time we should not show this graph in dashboard itself.
+status: DONE
+date_of_completion:23/02/25
+
+
+5. Plot a time series line chart to show the trend of total installs over time, segmented by app category. Highlight periods of significant growth by shading the areas under the curve where the increase in installs exceeds 20% month-over-month and content rating should be teen and app name should start with letter ‘E’ and installs should be more than 10k as well as this graph should work only between 6 PM IST to 9 PM IST apart from that time we should not show this graph in dashboard itself.
+status: DONE
+date_of_completion: 27/02/25
+
+
+
+
+Key Terms:
+
+1. To be eligible for a stipend of 3k and LOR, Experience letter and an internship certificate, it is imperative that you successfully complete these assignments with proper implementation and execution on all tasks 100% within a 06-01-2025 to 06-03-2025 (2 Months) timeframe
+
+Failing to complete all the tasks accordingly to the requirements While completing minimum 80% of the Internship tasks and final submission successfully accordingly to the instructions & Requirements the stipend  will be  performance based in between ₹300-₹600
+
+You can avail internship certificate only on the completion/trying one single task assigned
+
+2. Alongside running code file(source code), you are required to submit an internship report. The report should be concise and cover the following sections: Introduction, Background, Learning Objectives, Activities and Tasks, Skills and Competencies, Feedback and Evidence, Challenges and Solutions, Outcomes and Impact, and Conclusion.
+4. Ensure consistent completion of the daily report form (https://dailyreport.nullclass.com/) without exception. While occasional absences are acceptable, it is essential to indicate days when no work was performed.
+5. Any instance of plagiarism, where content is copied from external sources, will result in immediate disqualification from both the stipend and the certificate, leading to the termination of your participation in the program.
+6. Maintain strict confidentiality by refraining from sharing your work on any social media or other online platforms. Failure to comply with this condition will result in program termination and the revocation of any earned certificates.
+7. Please note that these assignments should be integrated within the framework of the course curriculum's completed applications, rather than being treated as separate tasks 
+8. Mentor support will not be available during the assignment as the purpose of internship tasks is to make the individuals to work on with their individual skills and especially to research and work to gain their skillset 
+We eagerly anticipate witnessing the knowledge and accomplishments you will gain during this internship.Internship tasks are assigned to work individually, kindly research and take help from web for reference instead of revealing tasks and getting Failing to adhere may lead to termination.
+9.Within the alloted duration the tasks has to be submitted for evaluation, failing to it you may avail internship certificate only .Once the tasks been completed and submitted for evaluation there will be no more resubmissions /retries available henceforth,As well as it would be considered as the commencement of your internship.
